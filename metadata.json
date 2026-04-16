@@ -1,0 +1,6 @@
+{
+  "name": "Glovo Architecture Dashboard",
+  "description": "Arquitectura de sistemas distribuidos para Glovo: Event-Driven vs Batch Processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
